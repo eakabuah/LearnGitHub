@@ -8,3 +8,5 @@ for i in newArr:
     print(i)
 
 print("Familiarizing with git")
+print("Another change to test familiarity")
+print("One more line")
