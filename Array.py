@@ -6,3 +6,5 @@ newArr = array(vals.typecode, (a*a for a in vals))
 
 for i in newArr:
     print(i)
+
+print("Familiarizing with git")
